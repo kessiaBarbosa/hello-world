@@ -1,2 +1,5 @@
 # hello-world
-Just testing
+
+Hello Everyone!
+
+Kessia here, I'm learning Android.
